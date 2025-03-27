@@ -51,7 +51,7 @@ function decorateArea(area = document) {
 const STYLES = '';
 
 // Use 'https://milo.adobe.com/libs' if you cannot map '/libs' to milo's origin.
-const LIBS = 'https://atsx.adobe.com/libs/';
+const LIBS = 'https://main--milo-college--atsx-api.aem.page/libs';
 
 // Add any config options.
 const CONFIG = {
